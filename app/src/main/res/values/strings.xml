@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Buetooth</string>
+    <string name="scanning_status">Scanning...</string>
+</resources>
